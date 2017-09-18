@@ -41,19 +41,19 @@
 #ladybug {
   float: left;
   width: 31%;
-  margin: 2%;
+  margin: 1%;
 }
 
 #skate {
   float: left;
   width: 30%;
-  margin: 2%;
+  margin: 1%;
 }
 
 #heels {
   float: left;
   width: 30%;
-  margin: 2%;
+  margin: 1%;
 }
 #bottom {
   display: flex;
