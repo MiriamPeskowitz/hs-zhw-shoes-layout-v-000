@@ -49,11 +49,13 @@
 #skate {
   float: left;
   width: 32%;
+  margin: 10px;
 }
 
 #heels {
   float: left;
   width: 32%;
+  margin: 10px;
 }
 #bottom {
   display: flex;
