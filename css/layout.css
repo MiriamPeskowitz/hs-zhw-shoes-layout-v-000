@@ -36,9 +36,7 @@
   width: 32%;
 }
 #wrapper-2 {
-  display: flex;
-  justify-content: space-around;
-}
+  
 
 #ladybug {
   float: left;
