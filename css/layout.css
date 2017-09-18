@@ -46,6 +46,7 @@
 }
 
 #ladybug {
+  display: flex;
   width: 31%;
   margin: 1%;
 }
