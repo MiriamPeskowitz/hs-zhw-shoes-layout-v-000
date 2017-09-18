@@ -61,3 +61,8 @@
   width: 30%;
   margin: 1%;
 }
+
+#bottom {
+  display: flex;
+  justify-content: space-around;
+}
