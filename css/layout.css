@@ -24,7 +24,7 @@
 
 /* Posititoning Classes */
 #wrapper-1 {
-  
+
 }
 #green-shoes{
   float: left;
@@ -55,4 +55,5 @@
 }
 #bottom {
   display: flex;
+  justify-content: space-around;
 }
