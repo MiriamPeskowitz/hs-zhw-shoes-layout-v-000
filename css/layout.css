@@ -36,7 +36,8 @@
   width: 32%;
 }
 #wrapper-2 {
-
+  display: flex;
+  justify-content: space-between;
 }
 
 #ladybug {
