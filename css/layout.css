@@ -23,5 +23,33 @@
 }
 
 /* Posititoning Classes */
+#wrapper-1 {
+  
+}
+#green-shoes{
+  float: left;
+  width: 66%;
+}
 
+#archive-list {
+  float: right;
+  width: 32%;
+}
+#wrapper-2 {
 
+}
+
+#ladybug {
+  float: left;
+  width: 32%;
+}
+
+#skate {
+  float: left;
+  width: 32%;
+}
+
+#heels {
+  float: left;
+  width: 32%;
+}
