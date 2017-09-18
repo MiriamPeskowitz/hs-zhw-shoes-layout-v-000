@@ -46,20 +46,20 @@
 }
 
 #ladybug {
-  display: flex;
+  display: inline;
   width: 31%;
   margin: 1%;
 }
 
 #skate {
-  display: flex;
 
+  display: inline;
   width: 30%;
   margin: 1%;
 }
 
 #heels {
-  display: flex;
+  display: inline;
 
   width: 30%;
   margin: 1%;
