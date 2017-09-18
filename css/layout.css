@@ -24,7 +24,8 @@
 
 /* Posititoning Classes ??DO I use wrapper-1 to make the middle section the right height? */
 #wrapper-1 {
-  clear: both;
+  display: flex;
+  justify-content: space-around;
 
 }
 
@@ -38,7 +39,8 @@
   width: 32%;
 }
 #wrapper-2 {
-  clear: both;
+  display: flex;
+  justify-content: space-around;
 }
 
 #ladybug {
