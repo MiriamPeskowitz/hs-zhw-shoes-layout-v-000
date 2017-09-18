@@ -52,12 +52,14 @@
 }
 
 #skate {
+  display: flex;
 
   width: 30%;
   margin: 1%;
 }
 
 #heels {
+  display: flex;
 
   width: 30%;
   margin: 1%;
