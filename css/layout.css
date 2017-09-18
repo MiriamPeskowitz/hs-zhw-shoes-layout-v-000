@@ -41,6 +41,7 @@
 }
 
 #wrapper-2 {
+  display:inline-flex;
   margin: 10px;
 }
 
